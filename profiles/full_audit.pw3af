@@ -145,8 +145,6 @@ only_target_domain = True
 
 [grep.strange_headers]
 
-[grep.ssn]
-
 [grep.oracle]
 
 [grep.directory_indexing]
